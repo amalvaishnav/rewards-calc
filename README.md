@@ -3,6 +3,7 @@
 To simply load this app on your local environment: 
 - Install npm 
 - run command `cd rewards-calculator`
+- run command `npm install`
 - run command `npm start`
 
 Main code is written on `src` file located on `rewards-calculator` folder
