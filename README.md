@@ -15,3 +15,4 @@ Main code is written on `src` file located on `rewards-calculator` folder
     - Adding the data under same name if I add an entry as a same name from the data.
     - Ability to remove entries
     - Ability to edit transaction
+- Screenshots can be found at rewards-calculator/screenshots directory
