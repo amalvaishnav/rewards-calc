@@ -79,7 +79,7 @@ function App() {
           id="start"
           name="date"
           value={newAddedData.date}
-          min="2023-03-15"
+          min="2023-04-01"
           max="2023-06-15"
           onChange={handleChange}
         />
