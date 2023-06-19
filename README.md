@@ -1,4 +1,4 @@
-# user-rewards-tracker
+# Rewards Calculator
 
 To simply load this app on your local environment: 
 - Install npm 
